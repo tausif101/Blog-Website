@@ -12,7 +12,7 @@ This project is a dynamic blog website built using ExpressJS for the backend, HT
 ## Technologies Used
 •	Backend: ExpressJS
 •	Frontend: HTML5, CSS, Bootstrap
-•	Database: MongoDB with Mongoose ORM
+•	Database: MongoDB with Mongoose ODM
 •	Templating Engine: EJS
 
 ## Functionality
