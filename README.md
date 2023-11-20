@@ -6,7 +6,7 @@ This project is a dynamic blog website built using ExpressJS for the backend, HT
 ## Features
 1.	Home: View all the blogs available on the website.
 3.	About: Learn more about the owner of the blog through the About page.
-4.	Contact: Access contact information or form to get in touch.
+4.	Contact: Access contact information to get in touch.
 5.	Compose: Write and submit personal blogs to be displayed on the website.
 
 ## Technologies Used
@@ -38,5 +38,6 @@ This project is a dynamic blog website built using ExpressJS for the backend, HT
 ## Contributions
 Contributions to this project are welcome! Fork the repository, make improvements, and create a pull request to contribute to the project's growth.
 License
+
 ### This project is licensed under the MIT License.
 
