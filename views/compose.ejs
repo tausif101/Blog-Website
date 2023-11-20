@@ -1,0 +1,15 @@
+<%- include("partials/header") -%> 
+
+<h1 style="color: rgb(65, 188, 200);">Write a Recipe</h1>
+
+<form action="/compose" method="post">
+    <div class="form-group">
+        <label>Title</label>
+        <input class="form-control" style="resize: none;" name="postTitle">
+        <label>Post</label>
+        <textarea class="form-control" name="postBody" rows="5" cols="30" placeholder="write description"></textarea>        
+    </div>
+    <button type="submit" name="button" class="btn btn-primary">Publish</button>
+</form>
+
+<%- include("partials/footer") -%>
